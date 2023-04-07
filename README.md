@@ -3,6 +3,7 @@
 > FE Dependencies & Configuration
 
 ```
+- React ^18.2.0
 - NextJS ^13.2.4
 - typescript ^4.9.5
 - ant design ^5.3.1
