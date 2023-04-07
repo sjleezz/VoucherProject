@@ -20,7 +20,7 @@
 - NodeJS ^16.14.0
 - Nginx latest
 - Docker ^20.10.23
-- WSL2
+- WSL2 Ubuntu 22.04.1 LTS
 ```
 ---
  ## This project is Enlgish Test Web App.
